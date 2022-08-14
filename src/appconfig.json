@@ -1,6 +1,6 @@
 {
-	"appName": "Ambassador",
-	"description": "Ambassador",
+	"appName": "AmbyAttacks",
+	"description": "Displays the upcoming attacks from the Ambassador.",
 	"appUrl": "./index.html",
 	"configUrl": "./appconfig.json",
 	"iconUrl": "./assets/favicon.png",
