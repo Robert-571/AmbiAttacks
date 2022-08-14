@@ -143,42 +143,6 @@ function reset_output(){
 	}
 }
 
-var test_p1_button = document.getElementById("test_p1_button");
-
-test_p1_button.onclick = function(){
-	execute_p1()	
-}
-
-var test_fragments_button = document.getElementById("test_fragments_button");
-
-test_fragments_button.onclick = function(){
-	execute_fragments()
-}
-
-var test_fragments_end_button = document.getElementById("test_fragments_end_button");
-
-test_fragments_end_button.onclick = function(){
-	execute_fragments_end(6)
-}
-
-var test_p2_button = document.getElementById("test_p2_button");
-
-test_p2_button.onclick = function(){
-	execute_p2()	
-}
-
-var test_p3_button = document.getElementById("test_p3_button");
-
-test_p3_button.onclick = function(){
-	execute_p3()	
-}
-
-var test_end_button = document.getElementById("test_end_button");
-
-test_end_button.onclick = function(){
-	execute_end()	
-}
-
 function capture() {
 	var img = a1lib.captureHoldFullRs();
 	processImg(img)
