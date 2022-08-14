@@ -10,7 +10,7 @@ npm run build
 
 Open `dist\index.html` in the Alt1 browser and click the `add app` button that appears.
 
-Or to use [this link](alt1://addapp/https://robert-571.github.io/appconfig.json) to add the pre-built app to alt1.
+Or use [this link](alt1://addapp/https://robert-571.github.io/appconfig.json) to add the pre-built app to alt1.
 
 Known issues:<br/>
 The app will not work correctly in Legacy Interface Mode as chatbox lines are not read at the correct time.<br/>
